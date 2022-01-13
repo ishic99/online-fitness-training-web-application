@@ -1,0 +1,55 @@
+body{
+  background-image: url("../images/bgw.jpg");
+  background-repeat: no-repeat;
+ 
+  background-size: cover;
+}
+
+.sidebarbg {
+    background-image: url('../images/bgg.jpg');
+    background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-size: cover;
+  }
+.askvit input[type=text], select {
+  width: 60%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.askvit input[type=submit] {
+  width: 30%;
+  background-color: #5F635E;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.askvit input[type=submit]:hover {
+  background-color: #E5BBBF;
+}
+
+.askvit div {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+  text-align: center;
+}
+
+.askvit textarea {
+  width: 60%;
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  resize: none;
+}

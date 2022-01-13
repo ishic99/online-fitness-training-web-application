@@ -1,0 +1,65 @@
+/*Admin Add Item Page form*/
+
+.form1
+{
+    font-family: Arial;
+    padding: 8px;
+    width:70%;
+    margin-top: 30px;
+    margin-left: 230px;
+    margin-bottom: 40px
+}
+
+.form2
+{
+margin-top: 25px;
+background-image: url('../images/sidem.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+padding:10px 25px 45px 20px;
+border:1px solid rgb(106, 196, 248);
+border-radius: 20px;
+
+}
+
+.form1 input[type=text]
+{
+width: 100%;
+padding: 7px 30px 15px 15px;
+border:1px solid #AA5A9E;
+border-radius: 5px;
+font-size: 20px;
+}
+
+.button1
+{
+background-color: #1569C7;
+color: white;
+padding: 12px;
+margin: 10px 250px;
+border: none;
+border-radius: 3px;
+cursor: pointer;
+font-size: 20px;
+}
+
+
+.button1:hover
+{
+background-color: #3BB9FF;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.row1
+{
+    margin:10px 10px;
+}
+
+
+/*Admin Add Item Page form*/
+
+/*End of Admin Add Item Page*/

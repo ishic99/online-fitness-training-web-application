@@ -1,0 +1,38 @@
+.inf{
+	border-style: solid;
+	border-width: 2px 2px;
+	border-radius : 20px;
+	padding : 100px 50px;
+	margin: 30px 250px;
+    background-image: url('../images/reg.jpg');
+    background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-size: cover;
+	font-family:Arial;
+	font-size: 20px;
+
+}
+body{
+	background-color : #fefefe;
+}
+
+.subbtn:hover{
+  	cursor: pointer;
+	background-color:#848484;
+}
+	
+
+.subbtn{
+	font-family:italics;
+	font-size:25px;
+	text-align: center;
+	padding: 25px,15px;
+	border-width :1px;
+	background-color:#fff;
+	color:#000;
+}
+
+/*----------------------*/
+
+
+		
